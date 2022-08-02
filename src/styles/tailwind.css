@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.root,
+#root,
+#docs-root {
+  --primary-text: #ffffff;
+  --primary-purple: #c662ef;
+}
